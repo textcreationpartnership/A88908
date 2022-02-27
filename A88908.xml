@@ -1,0 +1,220 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A declaration to the city and kingdome, from Major Generall Massey, Sir William Waller, Colonell Birch, and the rest rest [sic] of the impeached members of Parliament; concerning the proceedings of the Lord Generall Fairfax, and the Army; and their protestation to the people of England, touching the Parliament. Also, Major Generall Browns declaration and speech, to the Lord Generall Fairfax, touching the King, the Prince of VVales, the Duke of York, the Parliament, City, and kingdome. And the declaration of his Excellency the Lord Generall, to the kingdom of England, and his resolution thereupon. Likewise, a new covenant and agreement from the Army, to be tendered to all free born English-men, throughout the City of London, and the respective counties within the Kingdom of England.</title>
+            <author>Massey, Edward, Sir, 1619?-1674?</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88908</idno>
+            <idno type="STC">Wing M1036</idno>
+            <idno type="STC">Thomason E476_33</idno>
+            <idno type="STC">ESTC R26078</idno>
+            <idno type="EEBO-CITATION">99872112</idno>
+            <idno type="PROQUEST">99872112</idno>
+            <idno type="VID">162511</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A88908)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 162511)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 76:E476[33])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A declaration to the city and kingdome, from Major Generall Massey, Sir William Waller, Colonell Birch, and the rest rest [sic] of the impeached members of Parliament; concerning the proceedings of the Lord Generall Fairfax, and the Army; and their protestation to the people of England, touching the Parliament. Also, Major Generall Browns declaration and speech, to the Lord Generall Fairfax, touching the King, the Prince of VVales, the Duke of York, the Parliament, City, and kingdome. And the declaration of his Excellency the Lord Generall, to the kingdom of England, and his resolution thereupon. Likewise, a new covenant and agreement from the Army, to be tendered to all free born English-men, throughout the City of London, and the respective counties within the Kingdom of England.</title>
+                  <author>Massey, Edward, Sir, 1619?-1674?</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for C.VV. neer the Royall Exchange,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Identified as Wing D796 on UMI microfilm set "Early English books, 1641-1700".</note>
+                  <note>Annotation on Thomason copy: "Dec: 18th".</note>
+                  <note>Reproductions of the originals in the British Library and the Harvard University Library.</note>
+                  <note>Place of publication from Wing.</note>
+                  <note>Bracketed together on title page: "Major .. Birch,"; "And .. members of Parliament;".</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Fairfax, Thomas Fairfax, --  Baron, 1612-1671 --  Early works to 1800.</term>
+               <term>England and Wales. --  Army --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Pamphlets --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-04</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-04</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:162511:1" rendition="simple:additions"/>
+            <p>A DECLARATION TO THE City and Kingdome, FROM
+<list>
+                  <item>Major Generall <hi>Maſſey,</hi>
+                  </item>
+                  <item>Sir <hi>William Waller,</hi>
+                  </item>
+                  <item>Colonell <hi>Birch,</hi>
+                  </item>
+               </list>
+And the reſt reſt of the Impeached Members of <hi>Parliament;</hi>
+            </p>
+            <p>CONC<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>RNING The proceedings of the Lord Generall <hi>Fairfax,</hi> and the Army; and their Proteſtation to the people of <hi>England,</hi> touching the Parliament.</p>
+            <p>ALSO, Major General <hi>Browns</hi> Declaration and Speech to the Lord Generall <hi>Fairfax,</hi> touching the King, the Prince of <hi>VVales,</hi> the Duke of <hi>York,</hi> the <hi>Parliament, City,</hi> and <hi>Kingdome.</hi>
+            </p>
+            <p>AND The Declaration of his Excellency the Lord Generall, to the Kingdom of <hi>England,</hi> and his Reſolution thereupon.</p>
+            <p>LIKEWISE, A new Covenant and Agreement from the Army, to be ten<g ref="char:EOLhyphen"/>dered to all free born Engliſh-men, throughout the City of <hi>London,</hi> and the reſpective Counties within the Kingdom of <hi>England.</hi>
+            </p>
+            <p>
+               <add>Dec. 18<hi rend="sup">th</hi>
+               </add> Printed for <hi>C. VV.</hi> neer the Royall Exchange, 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:162511:2"/>
+            <pb n="1" facs="tcp:162511:2"/>
+            <head>A DECLARATION TO THE KINGDOME FROM [Major Generall <hi>Maſsey,</hi> Sir <hi>William Waller,</hi> Commiſſary <hi>Copley,</hi> and the reſt of the impeached Members con<g ref="char:EOLhyphen"/>cerning the proceedings of the Army<g ref="char:punc">▪</g>
+            </head>
+            <opener>
+               <salute>Fellow-Commoners, and Countrey-men,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">W</seg>Hereas, there hath been lately a moſt high at<g ref="char:EOLhyphen"/>tempt and violation put upon the Houſe o<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Commons, by the Army, under the Com<g ref="char:EOLhyphen"/>mand of <hi>Thomas</hi> Lord <hi>Fairfax;</hi> Therefore, We, whoſe names are hereunto ſubſcribed, being Members thereof, and Freeborn ſubjects of the Realm of <hi>England,</hi> Doe hereby Declare, and proteſt, in the preſence of the Almighty Jehovah of Heaven, That the Generall and Officers of the Army, being raiſed by the authority of Par<g ref="char:EOLhyphen"/>liament
+<pb n="2" facs="tcp:162511:3"/>and for defence and maintenance of the priviledges thereof; have not power or juriſdiction to apprehend, ſe<g ref="char:EOLhyphen"/>cure, detein, impriſon, or remove our perſons from place to place by any colour or authority whatſoever; nor yet to queſtion or try us or any of us by Martiall Law, or other<g ref="char:EOLhyphen"/>wiſe, for any offence or crime whatſoever; nor yet to que<g ref="char:EOLhyphen"/>ſtion or try us, or any of us by Martiall Law, or otherwiſe, for any offence or crime whatſoever, which can or ſhall be objected againſt us; And that the preſent impriſonment and removal of our perſons is a high violation of the rights and priviledges of Parliament, and of the fundamentall Lawes of the Land, and a higher uſurpation and exerciſe of an arby<g ref="char:EOLhyphen"/>trary and unlawfull power, then hath been heretofore pre<g ref="char:EOLhyphen"/>tended to, or attempted by this, of any King, or other power whatſoever, within this Realm; notwithſtanding which, wee and every of us do declare our readineſs to ſubmit our ſelvs to the lawfull tryall of a free Parliament, f<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r any crime or miſdemeanour that can or ſhall bee objected againſt Us.</p>
+            <closer>
+               <signed>Subſcribed,
+<list>
+                     <item>Edwa<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>d Maſsey,</item>
+                     <item>VVilliam VValler,</item>
+                     <item>Thomas Birch.</item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+         <div type="speech">
+            <head>Major Gen. <hi>Browns</hi> Speech to the Lord Gen. <hi>Fairfax.</hi>
+            </head>
+            <p>TO be your priſoner, is by much the leſse diſpleaſing to me, for that my Accuſation is for nothing elſe but Loyalty to the King and Parliament, and the indeavours which I have un<g ref="char:EOLhyphen"/>dertaken to prevent the ſubverſion of his Majeſty, and his po<g ref="char:EOLhyphen"/>sterity, Parliament, City, and Kingdom, the final loſse of Com<g ref="char:EOLhyphen"/>mon right and freedom of all the ſubjects of <hi>England,</hi> the utter extirpation of all Law, Government and Religion, and the pre<g ref="char:EOLhyphen"/>posterous converting of our well regulated Monarchy into that monstrous conception, a Military, Anarchy, with a popular par<g ref="char:EOLhyphen"/>liament
+<pb n="4" facs="tcp:162511:3"/>of the meanest of the Commons, and ſuch alſo of them only, as ſhal be constantli at the beck of the Army.</p>
+         </div>
+         <div type="document">
+            <head>His Excellencies Declaration.</head>
+            <p>WHereas, in the adventuring of our lives and bloud, we have ſought nothing more then the proſperity of this Kingdom, and the eſtabliſhing of Juſtice and Righte<g ref="char:EOLhyphen"/>ouſneſſe in the Land; ſo there is nothing that wee more ab<g ref="char:EOLhyphen"/>hor then thoſe wicked calumnies, that we ſhould invade the propriety of any not wilfully making themſelves, or do any thing any way, to hinder or obſtruct that Trade and Com<g ref="char:EOLhyphen"/>merce by which this Kingdom doth moſt ſubſiſt and flou<g ref="char:EOLhyphen"/>riſh: But that we ſhal, in a moſt ſpecial manner, protect, de<g ref="char:EOLhyphen"/>fend, encourage and maintain, in all juſt ways, all manner of Trade and Commerce, either by Engliſh or Strangers: and that we ſhall neither do, nor ſuffer to be done, as far as is in our power, any violence or injury, to the perſons or goods of any, either by Sea or Land.</p>
+         </div>
+         <div type="document">
+            <head>The Deſires of the Souldiery to their General.</head>
+            <p>Whereas it hath pleaſed the Lord of Hoſts to write his name upon your Sword in very legible characters, as ap<g ref="char:EOLhyphen"/>pears upon record twice, <hi>viz.</hi> in the year —45, where wee had 114 Victories, and now this laſt Summer above 30, even to our aſtoniſhment, who were uſed by you in that ſervice, that thoſe proud Billows in <hi>Wales, England,</hi> &amp; <hi>Scot<g ref="char:EOLhyphen"/>land,</hi> have bin bounded and calmed, in leſſe then ſix months, yet behold, we have our ſorrows repeated, and our fears in<g ref="char:EOLhyphen"/>creaſed, making our wounds even to bleed afreſh.</p>
+            <p>Wherefore, we deſire, in the name of our ſelves, and the abuſed and betrayed people of <hi>England,</hi> that your Excellen<g ref="char:EOLhyphen"/>cy will be pleaſed to aſſiſt us, in theſe enſuing requeſts and groans of our ſoules, which may not long be denyed us, leſt we faint or ſtruggle as we can for the life of good men, and a good Cauſe.</p>
+            <p>
+               <pb n="2" facs="tcp:162511:4"/>
+               <list>
+                  <item>1. That juſtice may ſuddenly and equally be diſpenſed, ac<g ref="char:EOLhyphen"/>cording to the deſires of our honoured friends in <hi>London, Lieceſterſhire,</hi> and others manifeſted by their ſeverall Petiti<g ref="char:EOLhyphen"/>ons, and the Parliaments Declaration concerning the Kings evill aſſerted, or bewayled, and repented of.</item>
+                  <item>2 That your Army be inſtantly reckoned withall, &amp; paid and ſo dealt with for future (if they muſt be uſed) that eve<g ref="char:EOLhyphen"/>ry Reg. may know their own country, &amp; there receive their pay immediatly, without any other Treaſurers or wayes of trouble, that ſo the people themſelves may ſee what they have for their money. In this we are impatient, or ſo paſſio<g ref="char:EOLhyphen"/>nately affected, that we gaſp for help: this Regiment hath had but one moneths pay ſince <hi>May,</hi> having marched 1300 miles this Summer.</item>
+                  <item>3 That the people may know in print, with all ſpeed, which way all publike monies are diſpoſed of in all counties and places<g ref="char:punc">▪</g> and that of all kinds, which may be done, if every col<g ref="char:EOLhyphen"/>lector and receiver of mony be forthwith enjoyned to print their receipts and disburſments; for if the ſouldiers be not paid, the people ask whats become of the Revenue, Compo<g ref="char:EOLhyphen"/>ſitions, Sequeſtrations, Exciſe, Lands, &amp;c.</item>
+                  <item>4 That we may have juſt and righteous Government ſet<g ref="char:EOLhyphen"/>led in this Nation, advancing Godlineſs, we abhorring Anar<g ref="char:EOLhyphen"/>chy, Confuſion, and levelling mens eſtates; ſo often charged upon us: for which end, we deſire theſe two things, in purſu<g ref="char:EOLhyphen"/>ance of which (by help from Heaven) we are reſolved to venture all.</item>
+               </list>
+            </p>
+            <p>Firſt that the grand and capital enemies, may without de<g ref="char:EOLhyphen"/>lay, be brought to Juſtice, which is the maine root of our miſery, we finding all other wayes attempted altogether in<g ref="char:EOLhyphen"/>valid to carty on this work of common ſafety.</p>
+            <p>Secondly, for the diſpatch of Juſtice upon all Delinquents
+<pb n="3" facs="tcp:162511:4"/>for rectifying all crooked things among us, &amp; for the good of us, and the Generations to come, we humbly conceive our laſt and ſureſt way will be for your Excellency and this ar<g ref="char:EOLhyphen"/>my, to make a ſpeedy offer to the Commons houſe in your name and the Armies, and in the behalf of all <hi>England,</hi> that ſuch of them as have been faithfull to the Kingdomes inte<g ref="char:EOLhyphen"/>reſt, to declare with you and the Nation; and that the con<g ref="char:EOLhyphen"/>trary minded, falſe, royal, and neutral party may know, that our enemies muſt not be our rulers, we profeſſing, that good men, rather then good laws muſt ſave us, though we disjoyn them not. And if any ſhal object, we put violence upon au<g ref="char:EOLhyphen"/>thority, we hereby proclaim to the world, that neither your Excellency, nor our ſelves, have received Co<g ref="char:cmbAbbrStroke">̄</g>miſſions from the parl as now conſtituted, but from that good party in it, who ſtrugled through many hazards to model this army for the kingdoms ſafety; not are we to attend forms &amp; cuſtoms in this extremity; we can as willingly ſ<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t down as march, ſuf<g ref="char:EOLhyphen"/>fer, as act, would but the godly party in the Kingdom cal us thereunto, and think themſelves preſerved by it.</p>
+            <p>But the people call to us for theſe things, and we to your Excellency, your known worth inviting us hereunto: in pro<g ref="char:EOLhyphen"/>ſecution of which, as an unparaller'd inſtrument, we ſhall live or die with your Excellency, having ſolemnly promi<g ref="char:EOLhyphen"/>ſed, to attempt and attend theſe two laſt expedients through all hazard. We cannot ſo undervalue our God, and the rich experienre we have had in the behalf of this Nation, as to ſee them lie (like <hi>Iſſachar</hi>) under theſe ſinful burdens, our <hi>colds nakedneſse, want hunger, hardſhip, difficulties, dangers,</hi> out of which our bleſſed, and ever to be praiſed God hath brought us, ſuggeſting theſe things unto us, for that flock of ſlaugh<g ref="char:EOLhyphen"/>ter in this Kingdome.</p>
+            <p>
+               <hi>Sir, we can die, but not endure to ſee our Mother</hi> England <hi>die before us.</hi>
+            </p>
+         </div>
+         <div type="document">
+            <pb n="6" facs="tcp:162511:5"/>
+            <list>
+               <head>A new Breviate for the Agreement of the people.</head>
+               <item>1 That to prevent the many inconveniences apparently ari<g ref="char:EOLhyphen"/>ſing from the <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ong continuance of the ſame perſons in au<g ref="char:EOLhyphen"/>thority, this preſent Parl. be diſſolyed upon or before the laſt day of <hi>April,</hi> in the year of our Lord, 1649.</item>
+               <item>2 That the people of England being at this day very une<g ref="char:EOLhyphen"/>qually diſtributed, by Counties, Cities, or Burroughs, for the election of their Repreſentatives, be more indifferently pro<g ref="char:EOLhyphen"/>portioned, and to this end, that the Repreſentative of the whole Nation, ſhall conſiſt of 300. perſons.</item>
+               <item>3 That 150 members at leaſt be always preſent in each ſit<g ref="char:EOLhyphen"/>ting of the Repreſentatives, at the loſt paſſing of any Law, or doing of any Act whereby the people are to be bound</item>
+               <item>4 That the power of the peoples Repreſentatives extend to the enacting, altering repeeling, and declaring of Lawes; to the erecting and aboliſhing Officers of Courts of Juſtice, and to whatſoever is not in this agreement excepted or re<g ref="char:EOLhyphen"/>ſerved from them.</item>
+               <item>Laſtly and particularly, we do not empower our Repre<g ref="char:EOLhyphen"/>ſentatives, to continue in foace or make any Law, Oaths or Covenants, whereby to compell by penalties or otherwiſe, any perſon any to any thing, in or about matters of faith<g ref="char:punc">▪</g> religion, or Gods Worſhip, or to reſtrain any perſon from profeſſing his faith, or exerciſe of Religion, according to his conſcience, in any place or houſe whatſoever.</item>
+            </list>
+         </div>
+         <trailer>THE END.</trailer>
+      </body>
+   </text>
+</TEI>
